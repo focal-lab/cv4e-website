@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: ocean
+  theme_night: mr robot
   font: native
   font_size: L
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Workshop on computer vision for ecology at ECCV 2024'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,17 +45,17 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan, 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/focal-lab/cv4e-website/'
     content_dir: content
     branch: main
   avatar:
