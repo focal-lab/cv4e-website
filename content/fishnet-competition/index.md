@@ -9,6 +9,8 @@ image:
   focal_point: ''
   preview_only: true
 
+editable: true
+
 banner:
   caption:
   image:

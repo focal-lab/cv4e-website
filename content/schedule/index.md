@@ -9,8 +9,7 @@ image:
   focal_point: ''
   preview_only: true
 
-sidebar:
-  open: true
+editable: true
 
 banner:
   caption:

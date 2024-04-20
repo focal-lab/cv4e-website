@@ -12,6 +12,8 @@ image:
 sidebar:
   open: true
 
+editable: true
+
 banner:
   caption:
   image:
