@@ -36,5 +36,5 @@ We will use the eval.ai platform to host the challenge. For Classification, we w
 |-|-|
 | Challenge released | May 1, 2024 |
 | Submission deadline | September 1, 2024 |
-| Winners announced | September 29, 2024 (during workshop) |
+| Winners announced | During workshop |
 |||
