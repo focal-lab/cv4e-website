@@ -60,10 +60,10 @@ sections:
         <div class="container">
         <div class="row justify-content-center">
         <div class="col-xl-4">
-        {{% cta cta_link="./people/" cta_text="View the schedule →" %}}
+        {{% cta cta_link="./schedule/" cta_text="View the schedule →" %}}
         </div>
         <div class="col-xl-4">
-        {{% cta cta_link="./people/" cta_text="Submit a paper or abstract →" %}}
+        {{% cta cta_link="./submit/" cta_text="Submit a paper or abstract →" %}}
         </div>
         </div>
         </div>
