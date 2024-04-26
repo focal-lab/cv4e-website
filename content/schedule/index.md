@@ -25,19 +25,22 @@ The workshop will consist of the following:
 
 ## Expert panel
 
-The workshop includes a panel discussion among experts working at the intersection of computer vision and ecology:
+The workshop includes a panel discussion with experts working at the intersection of computer vision and ecology.
 
-- Michael Beruman, Red Sea Research Center, KAUST
+<!-- - Michael Beruman, Red Sea Research Center, KAUST
 - Anthony Hoogs, Kitware Inc.
 - Toke Hoye, Aarhus University
 - Erin Moreland, U.S. National Oceanic and Atmospheric Administration
 - Dan Morris, Google AI for Nature and Society
-- (Tentative) Leah Wasser, PyOpenSci
+- (Tentative) Leah Wasser, PyOpenSci -->
 
 
 ## Schedule
 
-| Time | Event |
+The schedule will be released soon. The schedule will include a series of invited talks, a panel discussion, a poster session for contributed papers/abstracts, and an announcement of the winners of the challenge problem.
+
+
+<!-- | Time | Event |
 |-|-|
 |  | **Session 1: Invited talks** |
 | TIME TBD | Blair Costelloe, Max Planck Institute, TITLE TBA |
@@ -48,4 +51,4 @@ The workshop includes a panel discussion among experts working at the intersecti
 | TIME TBD | (Tentative) Devis Tuia, EPFL, TITLE TBA |
 | **TIME TBD** | **Session 2: Panel discussion** |
 | **TIME TBD** | **Session 3: Virtual talks** |
-|||
+||| -->
