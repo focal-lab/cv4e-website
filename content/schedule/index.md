@@ -19,13 +19,16 @@ banner:
 ## Overview
 
 The workshop will consist of the following:
-- A series of invited talks during the half-day in-person session in Milan (DATE AND TIME TBD)
-- A panel discussion (IN PERSON OR VIRTUAL TBD)
-- A series of virtual talks presenting the best submitted papers and abstracts
+
+- Invited talks
+- A panel discussion
+- A presentation of the challenge winners
+- A poster session presenting contributed papers/abstracts
+
 
 ## Expert panel
 
-The workshop includes a panel discussion with experts working at the intersection of computer vision and ecology.
+TBA
 
 <!-- - Michael Beruman, Red Sea Research Center, KAUST
 - Anthony Hoogs, Kitware Inc.
@@ -37,7 +40,7 @@ The workshop includes a panel discussion with experts working at the intersectio
 
 ## Schedule
 
-The schedule will be released soon. The schedule will include a series of invited talks, a panel discussion, a poster session for contributed papers/abstracts, and an announcement of the winners of the challenge problem.
+TBA
 
 
 <!-- | Time | Event |
