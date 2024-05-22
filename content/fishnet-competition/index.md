@@ -16,25 +16,10 @@ banner:
   image:
 ---
 
-This challenge aims to create AI models for classifying and detecting marine species using the FishNet dataset. It includes two tasks: predicting the species’ family in classification and both identifying and locating species in detection, aiming to advance AI capabilities in marine biodiversity.
-
+The ECCV 2024 Challenge presents a unique opportunity for researchers and practitioners to showcase their expertise in fish species classification in challenging environments using the FishNet dataset. The challenge aims to address the complexities associated with classifying fish species in diverse and challenging conditions, while also tackling the inherent imbalance in the dataset, characterized by a long-tailed distribution.
 ## Dataset
 
-FishNet is a large-scale dataset consisting of more than 94,000 images. FishNet encompasses more than 17,000 species across 463 families. Compared to previous datasets, which often had a limited number of species, FishNet boasts nearly ten times more species. FishNet has an extremely long-tailed distri bution which poses a significant challenge for classification and detection tasks, as it requires models to effectively handle rare and underrepresented species.
-
+The FishNet dataset comprises a diverse collection of fish images captured in various environmental conditions, including underwater, low-light, and occluded scenarios. The dataset encompasses a wide range of fish species, from common to rare, contributing to its long-tailed distribution. Participants will have access to a large-scale annotated dataset for model training and evaluation.
 ## Challenge details
 
-CHALLENGE DETAILS TBA HERE
-
-## Submission evaluation
-
-We will use the eval.ai platform to host the challenge. For Classification, we will use the accuracy metric on a private test set that will not be available to the contestants. We will provide train and validation splits from the FishNet datasets for the participants to develop their models. As for the Detection task, we will use the mAP metric on the held-out test set.
-
-## Important dates
-
-| Milestone | Date |
-|-|-|
-| Challenge released | May 1, 2024 |
-| Submission deadline | September 1, 2024 |
-| Winners announced | During workshop |
-|||
+All the details related to the challenge can be found [here.](https://eval.ai/web/challenges/challenge-page/2292/overview)
