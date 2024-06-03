@@ -35,8 +35,8 @@ The submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4
 
 | Milestone | Date |
 |-|-|
-| Submission deadline | July 1, 2024 |
-| Notification to authors | July 28, 2024 |
+| Submission deadline | July 15, 2024 |
+| Notification to authors | July 31, 2024 |
 | Camera-ready deadline | August 7, 2024 |
 |||
 
