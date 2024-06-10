@@ -17,7 +17,7 @@ sections:
         <br>
         
         Workshop at [ECCV 2024](https://eccv.ecva.net/) <br>
-        8:30am - 1:00 pm<br>
+        8:30 am - 1:00 pm<br>
         Sept 30, 2024<br>
         Milan, Italy
 

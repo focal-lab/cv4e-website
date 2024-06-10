@@ -21,7 +21,7 @@ banner:
 
 ## Overview
 
-The workshop invites papers for archival (proceedings) and non-archival tracks. Additionally, abstracts may be submitted to the non-archival track. The review process will be conducted on the Conference Management Tool(CMT). Each submission will be read by at least two reviewers, with a meta-reviewer making the final determination. Any accepted submissions will be included on the workshop website and can be presented as a poster at the workshop. Best submissions will be invited for virtual talks. A committee independent of the meta-reviewers will handle this decision.
+The workshop invites papers for archival (proceedings) and non-archival tracks. Additionally, abstracts may be submitted to the non-archival track. The review process will be conducted on the Conference Management Tool (CMT). Each submission will be read by at least two reviewers, with a meta-reviewer making the final determination. Any accepted submissions will be included on the workshop website and can be presented as a poster at the workshop. Best submissions will be invited for virtual talks. A committee independent of the meta-reviewers will handle this decision.
 
 ## Submission requirements and instructions
 
