@@ -25,7 +25,11 @@ The workshop invites papers for archival (proceedings) and non-archival tracks. 
 
 ## Submission requirements and instructions
 
-The submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E2024). We will soon update the instructions for the paper submission. The portal will start accepting submissions from July 1st.
+Submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E2024). The portal will start accepting submissions from July 1st. Submission specifications are as follows:
+
+**Proceedings (archival papers):** Use [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Maximum paper length is 7 pages.
+
+**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (7 pages) and should follow [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Relevant work submitted to other conferences within the previous 6 months may be submitted as non-archival contributions.
 
 
 ## Important dates
