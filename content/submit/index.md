@@ -25,7 +25,7 @@ The workshop invites papers for archival (proceedings) and non-archival tracks. 
 
 ## Submission requirements and instructions
 
-Submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E2024). The portal will start accepting submissions from July 1st. Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
+Submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E2024). The portal began accepting submissions July 1st. Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
 
 **Proceedings (archival papers):** Use [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Maximum paper length is 7 pages.
 
