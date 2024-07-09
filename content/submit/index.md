@@ -27,9 +27,9 @@ The workshop invites papers for archival (proceedings) and non-archival tracks. 
 
 Submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E2024). The portal began accepting submissions July 1st. Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
 
-**Proceedings (archival papers):** Use [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Maximum paper length is 7 pages.
+**Proceedings (archival papers):** Use [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Proceedings papers may be either short-form (7 pages) or full-length (14 pages).
 
-**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (7 pages) and should follow [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Relevant work submitted to other conferences within the previous 6 months may be submitted as non-archival contributions.
+**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (14 pages) and should follow [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Relevant work accepted at other conferences within the previous 6 months may be submitted as non-archival contributions regardless of length and formatting.
 
 
 ## Important dates
@@ -39,7 +39,7 @@ Submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E202
 
 | Milestone | Date |
 |-|-|
-| Submission deadline | July 15, 2024 |
+| Submission deadline | July 22, 2024 |
 | Notification to authors | July 31, 2024 |
 | Camera-ready deadline | August 7, 2024 |
 |||
