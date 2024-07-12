@@ -27,9 +27,9 @@ The workshop invites papers for archival (proceedings) and non-archival tracks. 
 
 Submission will be accepted on [CMT](https://cmt3.research.microsoft.com/CV4E2024). The portal began accepting submissions July 1st. Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
 
-**Proceedings (archival papers):** Use [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Proceedings papers may be either short-form (7 pages) or full-length (14 pages).
+**Proceedings (archival papers):** Use [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Proceedings papers may be either short-form (7 pages) or full-length (14 pages). References are not counted toward the page limit.
 
-**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (14 pages) and should follow [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). Relevant work accepted at other conferences within the previous 6 months may be submitted as non-archival contributions regardless of length and formatting.
+**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (14 pages) and should follow [ECCV standard formatting](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies). References are not counted toward the page limit. Relevant work accepted at other conferences within the previous 6 months may be submitted as non-archival contributions regardless of length and formatting.
 
 
 ## Important dates
