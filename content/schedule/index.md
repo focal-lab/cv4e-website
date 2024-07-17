@@ -25,7 +25,7 @@ The workshop will consist of the following components:
 - A presentation of the challenge winners
 - A poster session presenting contributed papers/abstracts
 
-
+<br>
 ## Schedule
 
 | Time | Event |
@@ -44,7 +44,6 @@ The workshop will consist of the following components:
 |||
 
 <br>
-
 ## Expert panel
 
 The panel discussion will have a hybrid format, with some panelists present in person and others joining remotely. The panel will discuss the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*. The panelists are:
