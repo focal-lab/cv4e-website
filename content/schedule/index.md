@@ -18,25 +18,12 @@ banner:
 
 ## Overview
 
-The workshop will consist of the following:
+The workshop will consist of the following components:
 
 - Invited talks
 - A panel discussion
 - A presentation of the challenge winners
 - A poster session presenting contributed papers/abstracts
-
-
-## Expert panel
-
-The panel discussion will have a hybrid format, with some panelists present in person and others joining remotely. The panel will discuss the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*. The panelists are:
-
-<!-- - Michael Beruman, Red Sea Research Center, KAUST
-- Erin Moreland, U.S. National Oceanic and Atmospheric Administration -->
-
-- Anthony Hoogs, Kitware Inc.
-- Toke Hoye, Aarhus University
-- Dan Morris, Google AI for Nature and Society
-- *Additional panelists to be announced*
 
 
 ## Schedule
@@ -55,5 +42,19 @@ The panel discussion will have a hybrid format, with some panelists present in p
 | 11:50 | Panel discussion (hybrid) |
 | 12:50 | Closing remarks |
 |||
+
+<br>
+
+## Expert panel
+
+The panel discussion will have a hybrid format, with some panelists present in person and others joining remotely. The panel will discuss the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*. The panelists are:
+
+<!-- - Michael Beruman, Red Sea Research Center, KAUST
+- Erin Moreland, U.S. National Oceanic and Atmospheric Administration -->
+
+- Anthony Hoogs, Kitware Inc.
+- Toke Hoye, Aarhus University
+- Dan Morris, Google AI for Nature and Society
+- *Additional panelists to be announced*
 
 <br>
