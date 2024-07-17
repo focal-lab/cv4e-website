@@ -28,32 +28,32 @@ The workshop will consist of the following:
 
 ## Expert panel
 
-TBA
+The panel discussion will have a hybrid format, with some panelists present in person and others joining remotely. The panel will discuss the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*. The panelists are:
 
 <!-- - Michael Beruman, Red Sea Research Center, KAUST
+- Erin Moreland, U.S. National Oceanic and Atmospheric Administration -->
+
 - Anthony Hoogs, Kitware Inc.
 - Toke Hoye, Aarhus University
-- Erin Moreland, U.S. National Oceanic and Atmospheric Administration
 - Dan Morris, Google AI for Nature and Society
-- (Tentative) Leah Wasser, PyOpenSci -->
+- *Additional panelists to be announced*
 
 
 ## Schedule
 
-TBA
-
-
-<!-- | Time | Event |
+| Time | Event |
 |-|-|
-|  | **Session 1: Invited talks** |
-| TIME TBD | Blair Costelloe, Max Planck Institute, TITLE TBA |
-| TIME TBD | Hannah Kerner, Arizona State University, TITLE TBA |
-| TIME TBD | Diego Marcos, Inria Universite Cote d'Azur, TITLE TBA |
-| TIME TBD | Rita Pucci, Naturalis, TITLE TBA |
-| TIME TBD | Aurelie Shapiro, UN FAO, TITLE TBA |
-| TIME TBD | (Tentative) Devis Tuia, EPFL, TITLE TBA |
-| **TIME TBD** | **Session 2: Panel discussion** |
-| **TIME TBD** | **Session 3: Virtual talks** |
-||| -->
+| 8:30 | Opening remarks |
+| 8:45 | Invited talk 1: Devis Tuia, EFPL; Title TBA |
+| 9:05 | Invited talk 2: Blair Costelloe, Max Planck Institute; Title TBA |
+| 9:25 | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur; Title TBA |
+| 9:50 | Poster session & coffee break |
+| 10:30 | FishNet challenge |
+| 10:45 | Invited talk 4: TBA |
+| 11:05 | Invited talk 5: TBA |
+| 11:25 | Invited talk 6: TBA |
+| 11:50 | Panel discussion (hybrid) |
+| 12:50 | Closing remarks |
+|||
 
 <br>
