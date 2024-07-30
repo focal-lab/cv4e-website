@@ -28,20 +28,20 @@ The workshop will consist of the following components:
 
 ## Schedule
 
-| Time | Event |
-|-|-|
-| 8:30 | Opening remarks |
-| 8:45 | Invited talk 1: Devis Tuia, EFPL; Title TBA |
-| 9:05 | Invited talk 2: Blair Costelloe, Max Planck Institute; Title TBA |
-| 9:25 | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur; Title TBA |
-| 9:50 | Poster session & coffee break |
-| 10:30 | FishNet challenge |
-| 10:45 | Invited talk 4: TBA |
-| 11:05 | Invited talk 5: TBA |
-| 11:25 | Invited talk 6: TBA |
-| 11:50 | Panel discussion (hybrid) |
-| 12:50 | Closing remarks |
-|||
+| Time  | Event                                                                 |
+| ----- | --------------------------------------------------------------------- |
+| 8:30  | Opening remarks                                                       |
+| 8:45  | Invited talk 1: Devis Tuia, EFPL; Title TBA                           |
+| 9:05  | Invited talk 2: Blair Costelloe, Max Planck Institute; Title TBA      |
+| 9:25  | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur; Title TBA |
+| 9:50  | Poster session & coffee break                                         |
+| 10:30 | FishNet challenge                                                     |
+| 10:45 | Invited talk 4: Hannah Kerner, Arizona State University; Title TBA    |
+| 11:05 | Invited talk 5: TBA                                                   |
+| 11:25 | Invited talk 6: TBA                                                   |
+| 11:50 | Panel discussion (hybrid)                                             |
+| 12:50 | Closing remarks                                                       |
+|       |                                                                       |
 <br>
 
 ## Speakers
@@ -77,6 +77,10 @@ Dr. Hoogs leads Kitware’s Computer Vision group, which he founded when he join
 ### Toke Høye
 {{< figure src="headshots/toke-hoye.jpg" alt="Photo of Toke Hoye." class="portrait">}}
 I am a professor in ecology at Aarhus University, Denmark. I lead a research group focused on developing and applying novel monitoring technology to questions related to species responses to environmental change. We primarily focus on insects and other invertebrates, where monitoring data is particularly limited and where species responses to environmental change is particularly pronounced. We focus on computer vision methods, which are particularly promising for global scalability and expert validation. We collaborate widely in interdisciplinary projects.
+
+### Erin Moreland
+{{< figure src="headshots/erin-moreland.jpg" alt="Photo of Erin Moreland." class="portrait">}}
+Erin Moreland is a Research Zoologist with the Polar Ecosystems Program at the National Oceanic and Atmospheric Administration (NOAA), Alaska Fisheries Science Center's Marine Mammal Laboratory. She oversees a project aimed at supporting the management of ice-associated seals in the U.S. Arctic through assessing the abundance and trends of ringed, bearded, ribbon, and spotted seals. Her responsibilities involve developing advanced survey methods which currently rely on a custom multispectral aerial imaging system paired with artificial intelligence models to detect and classify animals in the imagery in real time. Erin is the Chair of the NOAA AI Working Group and represents protected species on the Optics Strategic initiative, working to bring end-to-end AI solutions to researchers working with optical datasets across NOAA Fisheries.
 
 ### Dan Morris
 {{< figure src="headshots/dan-morris.jpg" alt="Photo of Dan Morris." class="portrait">}}
