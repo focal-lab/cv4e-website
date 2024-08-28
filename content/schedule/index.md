@@ -18,7 +18,7 @@ banner:
 
 ## Overview
 
-The workshop will consist of the following components:
+The workshop be held on Septemeber 30th, 2024 and will consist of the following components:
 
 - Invited talks
 - A panel discussion
