@@ -2,7 +2,6 @@
 title: Workshop schedule
 summary:
 
-date: 2022-01-01
 show_date: false
 profile: False
 image:
