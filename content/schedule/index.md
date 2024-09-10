@@ -38,7 +38,7 @@ The workshop be held on Septemeber 30th, 2024 and will consist of the following 
 | 10:30 | FishNet challenge                                                     |
 | 10:45 | Invited talk 4: Hannah Kerner, Arizona State University; Title TBA    |
 | 11:05 | Invited talk 5: Erin Moreland, NOAA; Title TBA                        |
-| 11:25 | Invited talk 6: TBA                                                   |
+| 11:25 | Invited talk 6: Rita Pucci, Naturalis Biodiversity Center; Title TBA  |
 | 11:50 | Panel discussion (hybrid)                                             |
 | 12:50 | Closing remarks                                                       |
 |       |                                                                       |
@@ -93,3 +93,4 @@ Aurélie Shapiro is an independent consultant based in Berlin, Germany providing
 ### Erin Moreland
 See biography [above](#erin-moreland).
 
+<br>
