@@ -17,12 +17,14 @@ banner:
 
 ## Overview
 
-The workshop be held on Septemeber 30th, 2024 and will consist of the following components:
+The workshop be held on **Septemeber 30th, 2024** and will consist of the following components:
 
 - Invited talks
 - A panel discussion
 - A presentation of the challenge winners
 - A poster session presenting contributed papers/abstracts
+
+The workshop will occur at ECCV (Suite 8) and on Zoom: https://kaust.zoom.us/j/96506772507
 <br>
 
 ## Schedule

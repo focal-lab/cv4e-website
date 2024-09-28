@@ -17,10 +17,8 @@ sections:
         <br>
         
         Workshop at [ECCV 2024](https://eccv.ecva.net/) <br>
-        8:30 am - 1:00 pm<br>
-        Sept 30, 2024<br>
-        Milan, Italy
-
+        8:30 am - 1:00 pm, Sept 30, 2024<br>
+        MiCo Milano (Suite 8) and Zoom: https://kaust.zoom.us/j/96506772507
 
   - block: markdown
     design:
