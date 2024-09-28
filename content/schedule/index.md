@@ -24,9 +24,14 @@ The workshop will consist of the following components:
 - A panel discussion
 - A presentation of the challenge winners
 - A poster session presenting contributed papers/abstracts
+
+The event will occur in person at ECCV (Suite 8) and on Zoom: https://kaust.zoom.us/j/96506772507
+
 <br>
 
 ## Schedule
+
+September 30, 2024
 
 | Time | Event |
 |-|-|
