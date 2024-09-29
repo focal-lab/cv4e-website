@@ -32,7 +32,7 @@ The workshop will occur at ECCV (Suite 8) and on Zoom: https://kaust.zoom.us/j/9
 | Time  | Event                                                                 |
 | ----- | --------------------------------------------------------------------- |
 | 8:30  | Opening remarks                                                       |
-| 8:45  | Invited talk 1: Devis Tuia, EFPL; Title TBA                           |
+| 8:45  | Invited talk 1: Devis Tuia, EPFL; Title TBA                           |
 | 9:05  | Invited talk 2: Blair Costelloe, Max Planck Institute; Title TBA      |
 | 9:25  | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur; Title TBA |
 | 9:50  | Poster session & coffee break                                         |
@@ -97,5 +97,10 @@ Aurélie Shapiro is an independent consultant based in Berlin, Germany providing
 
 ### Erin Moreland
 See biography [above](#erin-moreland).
+
+### Michael Berumen
+{{< figure src="headshots/michael-berumen.png" alt="Photo of Michael Berumen." class="portrait">}}
+Michael Berumen, Professor of Marine Science and Engineering, and has been managing the Red Sea Research Center, at KAUST King Abdullah University of Science and Technology Mike received a Zoology degree from the University of Arkansas in 2001. He then attended James Cook University in Australia to pursue graduate studies in coral reef ecology, specializing in life history and ecology of butterflyfishes. He was awarded the PhD in 2007. Mike accepted a postdoctoral fellowship at the Woods Hole Oceanographic Institution, where he focused on larval connectivity in coral reef fishes. During his time in Woods Hole, Mike began working in the Red Sea in 2008 in partnership with a new university in Saudi Arabia - the King Abdullah University of Science and Technology (KAUST). Mike joined KAUST in July 2009 as a founding faculty member in the Red Sea Research Center. Mike has authored more than 200 peer-reviewed articles and 8 book chapters, and he has co-edited two books. His research focuses on advancing general understanding of Red Sea coral reefs and more broadly making contributions to movement ecology, which is a critical aspect of developing conservation plans in the marine environment. He is particularly interested in connectivity questions ranging from larval dispersal to large distance migrations of adult fishes.
+
 
 <br>
