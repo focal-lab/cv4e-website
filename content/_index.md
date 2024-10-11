@@ -59,7 +59,7 @@ sections:
         <div class="container">
         <div class="row justify-content-center">
         <div class="col-xl-4">
-        {{% cta cta_link="https://www.youtube.com/watch?v=Qjd816N8Z6o" cta_text="View the workshop recording →" %}}
+        {{% cta cta_link="https://www.youtube.com/watch?v=Qjd816N8Z6o" cta_text="View workshop recording →" %}}
         </div>
         <div class="col-xl-4">
         {{% cta cta_link="./papers/" cta_text="View accepted papers →" %}}
