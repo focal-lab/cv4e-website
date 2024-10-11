@@ -17,7 +17,6 @@ banner:
 
 | Question type | Contact |
 |---------------|---------|
-| Papers and abstracts | TBA |
 | FishNet competition | Faizan Khan, faizan.khan (at) kaust.edu.sa |
 | General | Mohamed Elhoseiny, mohamed.elhoseiny@kaust.edu.sa |
 |||
