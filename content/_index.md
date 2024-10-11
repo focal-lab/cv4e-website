@@ -35,7 +35,7 @@ sections:
 
         <br>
 
-        The Computer Vision for Ecology workshop aimed to bring together experts to foster discussion on the automation of ecological data collection, collation, and analysis. Our goal was to establish a hub for the broader computer vision and ecology community at ECCV.
+        The Computer Vision for Ecology workshop brought together experts to foster discussion on the automation of ecological data collection, collation, and analysis. The goal was to establish a hub for the broader computer vision and ecology community at ECCV.
         
         The workshop encompassed applications of computer vision across a wide variety of ecological systems, spanning both terrestrial and aquatic systems, diverse geographic regions, and urban to wildland settings. The workshop also made specific efforts to encompass applications of computer vision which can be deployed across both low- and high-income nations.
         <br>
