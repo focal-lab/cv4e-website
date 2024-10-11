@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        Workshop at [ECCV 2024](https://eccv.ecva.net/)
+        Workshop at [ECCV 2024](https://eccv.ecva.net/) <br>
         Sept 30, 2024<br>
         [Recording here](https://www.youtube.com/watch?v=Qjd816N8Z6o)
 
