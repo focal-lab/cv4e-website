@@ -7,15 +7,15 @@ main:
   - name: Workshop recording
     url: https://www.youtube.com/watch?v=Qjd816N8Z6o
     weight: 5
-  - name: Schedule archive
+  - name: Schedule (archive)
     url: schedule
-    weight: 10
+    weight: 26
   - name: FishNet competition
     url: fishnet-competition
     weight: 25
-  - name: Accepted papers & abstracts
+  - name: Papers & abstracts
     url: papers
-    weight: 20
+    weight: 4
   - name: Contact
     url: contact
     weight: 30
