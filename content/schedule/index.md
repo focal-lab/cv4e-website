@@ -1,5 +1,5 @@
 ---
-title: Workshop schedule
+title: Workshop schedule archive
 summary:
 
 show_date: false
@@ -17,35 +17,38 @@ banner:
 
 ## Overview
 
-The workshop be held on **Septemeber 30th, 2024** and will consist of the following components:
+The workshop was held on **Septemeber 30th, 2024** and consisted of the following components:
 
 - Invited talks
 - A panel discussion
 - A presentation of the challenge winners
 - A poster session presenting contributed papers/abstracts
 
-The workshop will occur at ECCV (Suite 8) and on Zoom: https://kaust.zoom.us/j/96506772507
+[View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o).
+
 <br>
 
-## Schedule
+## Schedule (archived)
 
 | Time  | Event                                                                 |
 | ----- | --------------------------------------------------------------------- |
 | 8:30  | Opening remarks                                                       |
-| 8:45  | Invited talk 1: Devis Tuia, EPFL; Title TBA                           |
-| 9:05  | Invited talk 2: Blair Costelloe, Max Planck Institute; Title TBA      |
-| 9:25  | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur; Title TBA |
+| 8:45  | Invited talk 1: Devis Tuia, EPFL               |
+| 9:05  | Invited talk 2: Blair Costelloe, Max Planck Institute     |
+| 9:25  | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur |
 | 9:50  | Poster session & coffee break                                         |
 | 10:30 | FishNet challenge                                                     |
-| 10:45 | Invited talk 4: Hannah Kerner, Arizona State University; Title TBA    |
-| 11:05 | Invited talk 5: Erin Moreland, NOAA; Title TBA                        |
-| 11:25 | Invited talk 6: Rita Pucci, Naturalis Biodiversity Center; Title TBA  |
+| 10:45 | Invited talk 4: Hannah Kerner, Arizona State University  |
+| 11:05 | Invited talk 5: Erin Moreland, NOA                      |
+| 11:25 | Invited talk 6: Rita Pucci, Naturalis Biodiversity Center |
 | 11:50 | Panel discussion (hybrid)                                             |
 | 12:50 | Closing remarks                                                       |
 |       |                                                                       |
 <br>
 
 ## Speakers
+
+[View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including invited talks).
 
 
 ### Devis Tuia
@@ -74,10 +77,13 @@ Dr. Rita Pucci is a Postdoc in computer vision at the Naturalis Biodiversity cen
 
 ## Expert panel
 
-The panel discussion will have a hybrid format, with some panelists present in person and others joining remotely. The panel will discuss the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*. The panelists are:
+[View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including panel discussion).
 
-<!-- - Michael Beruman, Red Sea Research Center, KAUST
-- Erin Moreland, U.S. National Oceanic and Atmospheric Administration -->
+The panel discussion had a hybrid format, with some panelists presenting in person and others joining remotely. The panel discussed the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*.
+
+ The panelists were:
+
+
 
 ### Anthony Hoogs
 {{< figure src="headshots/anthony-hoogs.jpg" alt="Photo of Anthony Hoogs." class="portrait">}}
@@ -87,9 +93,9 @@ Dr. Hoogs leads Kitware’s Computer Vision group, which he founded when he join
 {{< figure src="headshots/toke-hoye.jpg" alt="Photo of Toke Hoye." class="portrait">}}
 I am a professor in ecology at Aarhus University, Denmark. I lead a research group focused on developing and applying novel monitoring technology to questions related to species responses to environmental change. We primarily focus on insects and other invertebrates, where monitoring data is particularly limited and where species responses to environmental change is particularly pronounced. We focus on computer vision methods, which are particularly promising for global scalability and expert validation. We collaborate widely in interdisciplinary projects.
 
-### Dan Morris
+<!-- ### Dan Morris
 {{< figure src="headshots/dan-morris.jpg" alt="Photo of Dan Morris." class="portrait">}}
-Dan Morris is a researcher in the Google AI for Nature and Society program, where he works on AI tools that help conservation scientists spend less time doing boring things and more time doing conservation. This includes tools that accelerate urban forest canopy assessments and image-based wildlife surveys.  Prior to joining Google, he directed the AI for Earth program at Microsoft, and prior to that he spent approximately a zillion years in the medical devices group at Microsoft Research, working on signal processing and machine learning tools for wearable devices that supported cardiovascular monitoring, fitness tracking, and gesture interaction.  He received his PhD from Stanford, where he worked on haptics and physical simulation for virtual surgery.
+Dan Morris is a researcher in the Google AI for Nature and Society program, where he works on AI tools that help conservation scientists spend less time doing boring things and more time doing conservation. This includes tools that accelerate urban forest canopy assessments and image-based wildlife surveys.  Prior to joining Google, he directed the AI for Earth program at Microsoft, and prior to that he spent approximately a zillion years in the medical devices group at Microsoft Research, working on signal processing and machine learning tools for wearable devices that supported cardiovascular monitoring, fitness tracking, and gesture interaction.  He received his PhD from Stanford, where he worked on haptics and physical simulation for virtual surgery. -->
 
 ### Aurélie Shapiro
 {{< figure src="headshots/aurelie-shapiro.jpg" alt="Photo of Aurélie Shapiro." class="portrait">}}

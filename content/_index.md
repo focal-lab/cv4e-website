@@ -17,8 +17,8 @@ sections:
         <br>
         
         Workshop at [ECCV 2024](https://eccv.ecva.net/) <br>
-        8:30 am - 1:00 pm, Sept 30, 2024<br>
-        MiCo Milano (Suite 8) and Zoom: https://kaust.zoom.us/j/96506772507
+        Sept 30, 2024<br>
+        [Recording here](https://www.youtube.com/watch?v=Qjd816N8Z6o)
 
   - block: markdown
     design:
@@ -35,9 +35,9 @@ sections:
 
         <br>
 
-        The Computer Vision for Ecology workshop aims to bring together experts to foster discussion on the automation of ecological data collection, collation, and analysis. Our goal is to establish a hub for the broader computer vision and ecology community at ECCV.
+        The Computer Vision for Ecology workshop aimed to bring together experts to foster discussion on the automation of ecological data collection, collation, and analysis. Our goal was to establish a hub for the broader computer vision and ecology community at ECCV.
         
-        The workshop will encompass applications of computer vision across a wide variety of ecological systems, spanning both terrestrial and aquatic systems, ranging from the tropics to the Arctic, and from urban to rural settings. The workshop will also make specific efforts to encompass applications of computer vision which can be deployed across both low- and high-income nations. The topics we aim to address include, but are not limited to Remote sensing, Bioacoustics, Video and image-based monitoring, Citizen science, Long-tailed recognition, Zero-shot learning, expert AI systems, and Robust model deployment.
+        The workshop encompassed applications of computer vision across a wide variety of ecological systems, spanning both terrestrial and aquatic systems, diverse geographic regions, and urban to wildland settings. The workshop also made specific efforts to encompass applications of computer vision which can be deployed across both low- and high-income nations.
         <br>
         &nbsp;
 
@@ -59,10 +59,10 @@ sections:
         <div class="container">
         <div class="row justify-content-center">
         <div class="col-xl-4">
-        {{% cta cta_link="./schedule/" cta_text="View the schedule →" %}}
+        {{% cta cta_link="https://www.youtube.com/watch?v=Qjd816N8Z6o" cta_text="View workshop recording →" %}}
         </div>
         <div class="col-xl-4">
-        {{% cta cta_link="./submit/" cta_text="Submit a paper or abstract →" %}}
+        {{% cta cta_link="./papers/" cta_text="View accepted papers →" %}}
         </div>
         </div>
         </div>
