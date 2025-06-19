@@ -75,9 +75,9 @@ sections:
 
   - block: features
     design:
-      columns: "2"
+      columns: '1'
       spacing:
-        padding: ['30px', '0', '60px', '0']
+        padding: ['60px', '0', '30px', '0']
     content:
       title: Organizers
       subtitle: "&nbsp; <br>"
