@@ -75,6 +75,7 @@ sections:
 
   - block: features
     design:
+      columns: "2"
       spacing:
         padding: ['30px', '0', '60px', '0']
     content:
@@ -96,6 +97,4 @@ sections:
             [Dr. Andrew Temple](https://reefecology.kaust.edu.sa/people/details/andrew-temple) <br>
           icon:
           icon_pack: 
-          icon:
-          icon_pack:
 ---
