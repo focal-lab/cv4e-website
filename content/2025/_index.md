@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        Workshop at [ICCV 2025](https://eccv.ecva.net/2025) <br>
+        Workshop at [ICCV 2025](https://iccv.thecvf.com/) <br>
         Oct 19, 2025<br>
 
   - block: markdown
@@ -96,10 +96,6 @@ sections:
             [Dr. Andrew Temple](https://reefecology.kaust.edu.sa/people/details/andrew-temple) <br>
           icon:
           icon_pack: 
-        - name: University of California, Davis
-          description:  |
-            [David Russell](https://focal-lab.org/author/david-russell/) <br>
-            [Dr. Derek Young](https://focal-lab.org/author/derek-young/) <br>
           icon:
           icon_pack:
 ---
