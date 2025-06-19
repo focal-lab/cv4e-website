@@ -70,12 +70,9 @@ sections:
       spacing:
         padding: ['60px', '0', '30px', '0']
 
-
-
-
   - block: features
     design:
-      columns: '1'
+      columns: '2'
       spacing:
         padding: ['60px', '0', '30px', '0']
     content:
@@ -88,13 +85,9 @@ sections:
             [Dr. Sara Beery](https://beerys.github.io/) <br>
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
-          icon:
-          icon_pack:
-        - name: King Abdullah University
+        - name: KAUST
           description: |
             [Dr. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) <br>
             [Faizan Khan](https://faixan-khan.github.io/) <br>
             [Dr. Andrew Temple](https://reefecology.kaust.edu.sa/people/details/andrew-temple) <br>
-          icon:
-          icon_pack: 
 ---
