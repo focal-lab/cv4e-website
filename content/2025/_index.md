@@ -18,6 +18,7 @@ sections:
         
         Workshop at [ICCV 2025](https://iccv.thecvf.com/) <br>
         Oct 19, 2025<br>
+        <b>Submission Portal Coming Soon!</b><br>
 
   - block: markdown
     design:
