@@ -86,6 +86,8 @@ sections:
             [Dr. Sara Beery](https://beerys.github.io/) <br>
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
+        - name: ''
+          description: ''
         - name: KAUST
           description: |
             [Dr. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) <br>
