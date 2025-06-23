@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-06-23
 type: landing
 editable: true
 
@@ -16,9 +16,9 @@ sections:
       text: |
         <br>
         
-        Workshop at [ECCV 2024](https://eccv.ecva.net/) <br>
-        Sept 30, 2024<br>
-        [Recording here](https://www.youtube.com/watch?v=Qjd816N8Z6o)
+        Workshop at [ICCV 2025](https://iccv.thecvf.com/) <br>
+        Oct 19, 2025<br>
+        <b>Archival Submissions due July 4, 2025!</b><br>
 
   - block: markdown
     design:
@@ -37,7 +37,7 @@ sections:
 
         The Computer Vision for Ecology workshop brought together experts to foster discussion on the automation of ecological data collection, collation, and analysis. The goal was to establish a hub for the broader computer vision and ecology community at ECCV.
         
-        The workshop encompassed applications of computer vision across a wide variety of ecological systems, spanning both terrestrial and aquatic systems, diverse geographic regions, and urban to wildland settings. The workshop also made specific efforts to encompass applications of computer vision which can be deployed across both low- and high-income nations.
+        The workshop encompassed applications of computer vision across a wide variety of ecological systems, spanning both terrestrial and aquatic systems, diverse geographic regions, and urban to wildland settings. The workshop also made specific efforts to encompass applications of computer vision which can be deployed across both low- and high-income nations. The topics we aim to address include, but are not limited to Remote sensing, Bioacoustics, Video and image-based monitoring, Citizen science, Long-tailed recognition, Zero-shot learning, expert AI systems, and Robust model deployment.
         <br>
         &nbsp;
 
@@ -50,7 +50,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class:
-  
+
   - block: markdown
     content:
       title:
@@ -58,11 +58,11 @@ sections:
       text: |
         <div class="container">
         <div class="row justify-content-center">
-        <div class="col-xl-4">
-        {{% cta cta_link="https://www.youtube.com/watch?v=Qjd816N8Z6o" cta_text="View workshop recording →" %}}
+        <div class="col-xl-4 fs-5">
+        {{% cta cta_link="./schedule/" cta_text="View the schedule →" %}}
         </div>
         <div class="col-xl-4">
-        {{% cta cta_link="./papers/" cta_text="View accepted papers →" %}}
+        {{% cta cta_link="./submit/" cta_text="Submit a paper or abstract →" %}}
         </div>
         </div>
         </div>
@@ -71,13 +71,11 @@ sections:
       spacing:
         padding: ['60px', '0', '30px', '0']
 
-
-
-
   - block: features
     design:
+      columns: '2'
       spacing:
-        padding: ['30px', '0', '60px', '0']
+        padding: ['60px', '0', '30px', '0']
     content:
       title: Organizers
       subtitle: "&nbsp; <br>"
@@ -88,19 +86,9 @@ sections:
             [Dr. Sara Beery](https://beerys.github.io/) <br>
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
-          icon:
-          icon_pack:
-        - name: King Abdullah University
+        - name: KAUST
           description: |
             [Dr. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) <br>
             [Faizan Khan](https://faixan-khan.github.io/) <br>
             [Dr. Andrew Temple](https://reefecology.kaust.edu.sa/people/details/andrew-temple) <br>
-          icon:
-          icon_pack: 
-        - name: University of California, Davis
-          description:  |
-            [David Russell](https://focal-lab.org/author/david-russell/) <br>
-            [Dr. Derek Young](https://focal-lab.org/author/derek-young/) <br>
-          icon:
-          icon_pack:
 ---

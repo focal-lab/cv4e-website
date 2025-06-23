@@ -1,5 +1,5 @@
 ---
-title: Accepted papers & abstracts
+title: CV4E 2024 at ECCV
 summary:
 
 date:
@@ -12,12 +12,21 @@ image:
 sidebar:
   open: true
 
-editable: true
+editable: false 
 
 banner:
   caption:
   image:
+
+share: false
 ---
+
+# Workshop Recording
+
+
+<a href="https://www.youtube.com/watch?v=Qjd816N8Z6o" style="text-decoration:underline;" target="_blank">View Workshop Recording &rarr;</a>
+
+# Accepted Papers and Abstracts
 
 The workshop invited papers for archival (proceedings) and non-archival tracks. Additionally, abstracts were invited to the non-archival track.
 

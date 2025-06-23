@@ -4,18 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Workshop recording
-    url: https://www.youtube.com/watch?v=Qjd816N8Z6o
-    weight: 5
+  - name: Submit
+    url: submit
+    weight: 1
   - name: Schedule (archive)
     url: schedule
     weight: 26
   - name: FishNet competition
     url: fishnet-competition
     weight: 25
-  - name: Papers & abstracts
+  - name: ECCV 2024 
     url: papers
-    weight: 4
+    weight: 29
   - name: Contact
     url: contact
     weight: 30
