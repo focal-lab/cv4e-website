@@ -15,6 +15,9 @@ banner:
   image:
 ---
 
+
+**The schedule for ICCV 2025 will be posted shortly**
+
 ## Overview
 
 The workshop was held on **Septemeber 30th, 2024** and consisted of the following components:
