@@ -42,9 +42,9 @@ The workshop invites papers for archival (proceedings) and non-archival tracks. 
 
 Submission will be accepted on [OpenReview](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CV4E). Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
 
-**Proceedings (archival papers):** Use [ICCV standard formatting](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines). Proceedings papers may be either short-form (7 pages) or full-length (14 pages). References are not counted toward the page limit.
+**Proceedings (archival papers):** Use [ICCV standard formatting](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines). Proceedings papers may be either short-form (4 pages) or full-length (8 pages). References are not counted toward the page limit.
 
-**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (14 pages) and should follow [ICCV standard formatting](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines). References are not counted toward the page limit. Relevant work accepted at other conferences within the previous 6 months may be submitted as non-archival contributions regardless of length and formatting.
+**Non-archival papers and abstracts:** Submissions may span a range from a standalone abstract (1-3 paragraphs) up to full proceedings (archival) length (8 pages) and should follow [ICCV standard formatting](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines). References are not counted toward the page limit. Relevant work accepted at other conferences within the previous 6 months may be submitted as non-archival contributions regardless of length and formatting.
 
 
 ## Important dates
