@@ -40,7 +40,7 @@ The workshop invites papers for archival (proceedings) and non-archival tracks. 
 
 ## Submission requirements and instructions
 
-Submission will be accepted on [OpenReview](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CV4E). Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
+Submission will be accepted on [OpenReview](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CV4E_Non-Archival). Reviews are double-blind. Specifications for archival and non-archival contributions are provided below. Appendices are acceptable and are not counted toward the page limits listed below. Reviewers are not required to review the appendices but may do so at their discretion.
 
 **Proceedings (archival papers):** Use [ICCV standard formatting](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines). Proceedings papers may be either short-form (4 pages) or full-length (8 pages). References are not counted toward the page limit.
 
@@ -63,7 +63,7 @@ Submission will be accepted on [OpenReview](https://openreview.net/group?id=thec
 
 | Milestone | Date |
 |-|-|
-| Submission deadline | July 22, 2025 |
-| Notification to authors | August 15, 2025 |
-| Camera-ready deadline | August 30, 2025 |
+| Submission deadline | August 15, 2025 |
+| Notification to authors | August 25, 2025 |
+| Camera-ready deadline | August 31, 2025 |
 |||
