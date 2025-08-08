@@ -56,7 +56,7 @@ Submission will be accepted on [OpenReview](https://openreview.net/group?id=thec
 |-|-|
 | Submission deadline | July 7, 2025 |
 | Notification to authors | July 11, 2025 |
-| Camera-ready deadline | August 10, 2025 |
+| Camera-ready deadline | August 18, 2025 |
 |||
 
 #### Non-archival (papers and abstracts)
