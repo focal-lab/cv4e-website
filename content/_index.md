@@ -19,7 +19,7 @@ sections:
         Workshop at [ICCV 2025](https://iccv.thecvf.com/) <br>
         Oct 20, 2025<br>
         <b><del>Archival Submissions due July 7, 2025!<del></b><br>
-        <b>Non Archival Submissions due August 15, 2025!</b><br>
+        <b>Non Archival Submissions due August 22, 2025!</b><br>
 
   - block: markdown
     design:
