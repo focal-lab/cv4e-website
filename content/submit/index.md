@@ -66,6 +66,6 @@ Submission will be accepted on [OpenReview](https://openreview.net/group?id=thec
 | Milestone | Date |
 |-|-|
 | Submission deadline | August 22, 2025 |
-| Notification to authors | August 29, 2025 |
-| Camera-ready deadline | August 5, 2025 |
+| Notification to authors | September 4, 2025 |
+| Camera-ready deadline | September 11, 2025 |
 |||
