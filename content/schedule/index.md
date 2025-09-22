@@ -16,18 +16,19 @@ banner:
 ---
 
 
-**The schedule for ICCV 2025 will be posted shortly**
+<!-- **The schedule for ICCV 2025 will be posted shortly** -->
 
 ## Overview
 
-The workshop was held on **Septemeber 30th, 2024** and consisted of the following components:
+The workshop will be held on **October 20th, 2025** and consists of the following components:
 
 - Invited talks
 - A panel discussion
-- A presentation of the challenge winners
+- A spotlight session presenting selected papers
+<!-- - A presentation of the challenge winners -->
 - A poster session presenting contributed papers/abstracts
 
-[View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o).
+[View last year's workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o).
 
 <br>
 
@@ -54,7 +55,7 @@ The workshop was held on **Septemeber 30th, 2024** and consisted of the followin
 
 ## Speakers
 
-[View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including invited talks).
+<!-- [View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including invited talks). -->
 
 
 ### Beni Kellenberger
@@ -95,11 +96,15 @@ I am a Professor in the Manning College of Information and Computer Sciences at 
 
 ## Expert panel
 
-[View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including panel discussion).
+**The expert panel will be posted shortly**
+
+<!-- [View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including panel discussion). -->
+
+**Panel from 2024 edition**
 
 The panel discussion had a hybrid format, with some panelists presenting in person and others joining remotely. The panel discussed the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*.
 
- The panelists were:
+The panelists were:
 
 
 
