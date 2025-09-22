@@ -54,29 +54,35 @@ The workshop was held on **Septemeber 30th, 2024** and consisted of the followin
 [View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including invited talks).
 
 
-### Devis Tuia
-{{< figure src="headshots/devis-tuia.jpg" alt="Photo of Devis Tuia." class="portrait">}}
-Devis completed his PhD at University of Lausanne, Switzerland, where he studied kernel methods for hyperspectral satellite data. He then traveled the world as a postdoc, first at University of València, then at CU Boulder and finally back to EPFL. In 2014, he became assistant professor at University of Zurich, and in 2017 he moved to Wageningen University in the Netherlands, where he was chair of the Geo-Information Science and Remote Sensing Laboratory. Since September 2020, he is back to EPFL, where he leads the Environmental Computational  Science and Earth Observation laboratory (ECEO) in Sion. There, he studies Earth and biodiversity from above with machine learning and computer vision.
+### Beni Kellenberger
+{{< figure src="headshots/Beni_Kellenberger.jpg" alt="Photo of Beni Kellenberger." class="portrait">}}
+Ben is a Lecturer and permanent researcher in the People and Nature Lab at University College London (UCL), working at the intersection of Earth observation, machine learning, and ecology to answer questions about the distribution of species and underlying processes. Ben previously worked in the Jetz lab at Yale University, as well as the ECEO lab at EPFL, Switzerland, where he researched methods to automatically identify animals from above—using aerial imagery.
 
-### Blair Costelloe
-{{< figure src="headshots/blair-costelloe.jpeg" alt="Photo of Blair Costelloe." class="portrait">}}
-Dr. Blair Costelloe is a behavioral ecologist interested in the collective and antipredator behavior of large African mammals. As an EU-funded Marie Sklodowska-Curie Postdoctoral Fellow, she led the HerdHover project to develop drone- and image-based methods for studying the collective behavior of animals in their natural environments. She is currently a principle investigator on the EU-funded WildDrone project, which aims to develop new drone and image-based tracking tools for wildlife conservation missions. Her research focuses on understanding the role animal behavior in driving broader-scale ecological processes. Blair is a Project Leader at the Max Planck Institute of Animal Behavior and the Centre for the Advanced Study of Collective Behavior at the University of Konstanz in Germany. She earned her PhD in Ecology and Evolutionary Biology from Princeton University in 2014.
 
-### Diego Marcos
-{{< figure src="headshots/diego-marcos.jpg" alt="Photo of Diego Marcos." class="portrait">}}
-Diego Marcos is a tenure-track, junior professor at Inria Université Côte d'Azur in France, specializing in developing machine learning and computer vision methods to solve environmental and Earth observation problems. His research interests include creating more interpretable computer vision methods for species identification and building species distribution models using citizen science and Earth observation data. He holds a PhD from Wageningen University and an MSc in Computation Sciences and Engineering from EPFL in Switzerland.
+### Harry Chao
+{{< figure src="headshots/harry_chao.png" alt="Photo of Harry Chao." class="portrait">}}
+Wei-Lun (Harry) Chao(https://cse.osu.edu/people/chao.209) is an associate professor in Computer Science and Engineering at The Ohio State University (OSU). His research focuses on machine learning and computer vision, with applications spanning visual recognition, autonomous driving, biology, and healthcare. He is particularly interested in learning from imperfect data, including limited, noisy, heterogeneous, distribution-shifting, and inaccessible data. His contributions have been recognized by several awards and honors, including the OSU Early Career Distinguished Scholar Award (2025) and the CVPR Best Student Paper Award (2024). Before joining OSU in 2019, he was a postdoctoral associate at Cornell University (2018–2019), working with Kilian Weinberger and Mark Campbell. He earned his Ph.D. in Computer Science from the University of Southern California (2013–2018) under the supervision of Fei Sha.
 
-### Hannah Kerner
-{{< figure src="headshots/hannah-kerner.jpg" alt="Photo of Hannah Kerner." class="portrait">}}
-Hannah Kerner is an Assistant Professor in the School of Computing and Augmented Intelligence at Arizona State University. My research focuses on advancing the foundations and applications of machine learning to foster a more sustainable, responsible, and fair future for all. As the AI Lead for NASA's agriculture programs, NASA Harvest and NASA Acres, she is deploying research methods in real applications across the globe; her projects have directly resulted in optimized agricultural planning, disaster response, and financial relief in various regions around the world. The impact of Kerner’s research was recognized in Forbes 30 Under 30 and the International Research Centre On Artificial Intelligence's Top 10 projects solving problems related to the UN's Sustainable Development Goals with AI.
+### Ben Koger
+{{< figure src="headshots/Ben_Koger.jpg" alt="Photo of Ben Koger." class="portrait">}}
+Ben is an assistant professor at the University of Wyoming in the School of Computing and the Department of Zoology and Physiology. The focus of his work is designing and using computer vision tools to study ecological systems. He combines imagery from drones, fixed wing aircraft and ground-based cameras with deep learning driven software to detect and count individuals while quantifying their social and physical landscapes to understand animal populations and drivers of animal movement. Current and previous projects include using drones to study social dynamics of African ungulates and migrating sockeye salmon and landscape-scale aerial monitoring of pronghorn in collaboration with the Wyoming  Game and Fish Department. 
 
-### Erin Moreland
-{{< figure src="headshots/erin-moreland.jpg" alt="Photo of Erin Moreland." class="portrait">}}
-Erin Moreland is a Research Zoologist with the Polar Ecosystems Program at the National Oceanic and Atmospheric Administration (NOAA), Alaska Fisheries Science Center's Marine Mammal Laboratory. She oversees a project aimed at supporting the management of ice-associated seals in the U.S. Arctic through assessing the abundance and trends of ringed, bearded, ribbon, and spotted seals. Her responsibilities involve developing advanced survey methods which currently rely on a custom multispectral aerial imaging system paired with artificial intelligence models to detect and classify animals in the imagery in real time. Erin is the Chair of the NOAA AI Working Group and represents protected species on the Optics Strategic initiative, working to bring end-to-end AI solutions to researchers working with optical datasets across NOAA Fisheries.
 
-### Rita Pucci
-{{< figure src="headshots/rita-pucci.jpg" alt="Photo of Rita Pucci." class="portrait">}}
-Dr. Rita Pucci is a Postdoc in computer vision at the Naturalis Biodiversity center, Leiden, the Netherlands. She has conducted research in Australia and Scotland, focusing on machine-learning applications in animal behaviour analysis, underwater image manipulation, and fine-grained image classification. Currently, she is involved in the MAMBO and TETTRIS European projects at the Evolutionary Ecology group in Naturalis. In the MAMBO project, she is exploring modern techniques for monitoring biodiversity using computer vision and crowd-sourced data. In the TETTRIS project, she is working on the fine-grained classification of dark-taxa with images from museums' collections in collaboration with the University of Hamburg.
+
+### Jonathan Sauder
+{{< figure src="headshots/jonathan_sauder.png" alt="Photo of Jonathan Sauder." class="portrait">}}
+Jonathan Sauder is a PhD student at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, working on the intersection of 3D computer vision, machine learning, and coral reefs. Supervised by Devis Tuia (ECEO lab) and Anders Meibom (LGB lab), Jonathan's thesis is embedded in EPFL's Transnational Red Sea Center (TRSC), exploring how recent breakthroughs in machine learning and computer vision can be used to create the next generation of coral monitoring tools. Jonathan obtained his Master's in computer science from TU Berlin and his Bachelor's from the Hasso Plattner Institute in Potsdam, where his research focused on machine learning, compressed sensing, and computer vision.
+
+
+### Justin Kitzes
+{{< figure src="headshots/Justin_Kitzes.jpg" alt="Photo of Justin Kitzes." class="portrait">}}
+Justin Kitzes is an Associate Professor of Biological Sciences at the University of Pittsburgh, where he leads a research group focused on the development and application of automated acoustic survey methods in ecology and conservation. His work focuses specifically on the discovery of rare and hard-to-detect species, the use of machine learning models for species-level and within-species sound classification, and the creation of open-source tools and documentation to enable more widespread use of bioacoustics methods. Dr. Kitzes holds a Ph.D. in Environmental Science, Policy, and Management from the University of California, Berkeley.
+
+
+### Amanda Navine
+{{< figure src="headshots/Amanda_Navine.png" alt="Photo of Amanda Navine." class="portrait">}}
+Amanda has studied the endangered native birds of Hawai'i since she arrived on Big Island to complete her master's degree in the Tropical Conservation Biology and Environmental Science Program at the University of Hawai'i at Hilo in 2019. Her research since graduating in 2021 has been working on using machine learning to advance passive acoustic monitoring of bird populations and improve management. She has collaborated with groups like Google DeepMind and Cornell Lab of Ornithology to improve the way we make ecological inference from machine learning classifier output.
+
 
 ## Expert panel
 
