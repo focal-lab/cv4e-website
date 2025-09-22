@@ -7,7 +7,7 @@ main:
   - name: Submit
     url: submit
     weight: 1
-  - name: Schedule (archive)
+  - name: Schedule
     url: schedule
     weight: 26
   - name: FishNet competition
