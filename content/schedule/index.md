@@ -1,5 +1,5 @@
 ---
-title: Workshop schedule archive
+title: Workshop schedule
 summary:
 
 show_date: false
