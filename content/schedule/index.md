@@ -35,18 +35,21 @@ The workshop was held on **Septemeber 30th, 2024** and consisted of the followin
 
 | Time  | Event                                                                 |
 | ----- | --------------------------------------------------------------------- |
-| 8:30  | Opening remarks                                                       |
-| 8:45  | Invited talk 1: Devis Tuia, EPFL               |
-| 9:05  | Invited talk 2: Blair Costelloe, Max Planck Institute     |
-| 9:25  | Invited talk 3: Diego Marcos, Inria Université Côte d'Azur |
-| 9:50  | Poster session & coffee break                                         |
-| 10:30 | FishNet challenge                                                     |
-| 10:45 | Invited talk 4: Hannah Kerner, Arizona State University  |
-| 11:05 | Invited talk 5: Erin Moreland, NOA                      |
-| 11:25 | Invited talk 6: Rita Pucci, Naturalis Biodiversity Center |
-| 11:50 | Panel discussion (hybrid)                                             |
-| 12:50 | Closing remarks                                                       |
-|       |                                                                       |
+| 9:00  | Opening remarks: Sara Beery, Massachusetts Institute of Technology|
+| 9:15  | Invited talk 1: Beni Kellenberger, University College London |
+| 9:45  | Invited talk 2: Harry Chao, Ohio State University     |
+| 10:20 | Cofee Break |
+| 10:40 | Spotlight Sessions                                         |
+| 11:30 | Lunch & Posters                                          |
+| 1:05  | Invited talk 3: Ben Koger, University of Wyoming  |
+| 1:40  | Invited talk 4: Jonathan Sauder, École Polytechnique Fédérale de Lausanne |
+| 2:10 | Panel discussion |
+| 3:10 | Coffee Break          |
+| 3:30 | Invited talk 5: Justin Kitzes, University of Pittsburgh   |
+| 4:00 | Invited talk 6: Amanda Navine   |
+| 4:30 | Invited talk 7: Subhransu Maji, University of Massachusetts Amherst   |
+| 5:00 | Closing Remarks: Sara Beery, Massachusetts Institute of Technology|
+|       |                                                                  |
 <br>
 
 ## Speakers
@@ -82,6 +85,12 @@ Justin Kitzes is an Associate Professor of Biological Sciences at the University
 ### Amanda Navine
 {{< figure src="headshots/Amanda_Navine.png" alt="Photo of Amanda Navine." class="portrait">}}
 Amanda has studied the endangered native birds of Hawai'i since she arrived on Big Island to complete her master's degree in the Tropical Conservation Biology and Environmental Science Program at the University of Hawai'i at Hilo in 2019. Her research since graduating in 2021 has been working on using machine learning to advance passive acoustic monitoring of bird populations and improve management. She has collaborated with groups like Google DeepMind and Cornell Lab of Ornithology to improve the way we make ecological inference from machine learning classifier output.
+
+
+
+### Subhransu Maji
+{{< figure src="headshots/subhransu_maji.jpg" alt="Photo of Subhransu Maji." class="portrait">}}
+I am a Professor in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst, where I also serve as Co-Director of the Computer Vision Laboratory. I received my Ph.D. in Computer Science from the University of California, Berkeley, and a B.Tech. in Computer Science and Engineering from IIT Kanpur. Prior to joining UMass Amherst, I was a Research Assistant Professor at TTI-Chicago. My research focuses on developing visual recognition algorithms capable of perceiving fine-grained details and learning effectively from limited data. I am also interested in AI applications that serve societal needs and advance scientific discovery, particularly in ecology and remote sensing. In the past, I have had the opportunity to work with several academic and industrial research organizations, including TTI-Chicago, the University of Amsterdam, AWS AI, Google, INRIA, Microsoft Research, the CLSP Center at Johns Hopkins University, and the University of Oxford. My research has been supported by the National Science Foundation—including a CAREER Award—as well as NASA, Climate Change AI, Facebook, NVIDIA, Dolby, and Adobe. My work has received several distinctions, including the Best Paper Award at AAAI 2024 (AI for Social Impact Track), a Best Paper Honorable Mention at CVPR 2018, and a Best Paper Award at WACV 2015.
 
 
 ## Expert panel
