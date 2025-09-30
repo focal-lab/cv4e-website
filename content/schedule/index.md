@@ -96,40 +96,42 @@ I am a Professor in the Manning College of Information and Computer Sciences at 
 
 ## Expert panel
 
-**The expert panel will be posted shortly**
+<!-- **The expert panel will be posted shortly** -->
 
 <!-- [View workshop recording](https://www.youtube.com/watch?v=Qjd816N8Z6o) (including panel discussion). -->
 
-**Panel from 2024 edition**
+<!-- **Panel from 2024 edition** -->
 
-The panel discussion had a hybrid format, with some panelists presenting in person and others joining remotely. The panel discussed the challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*.
+The hybrid panel discussion, "When Domains Collide: Ecology and Computer Vision in Practice," will bring together experts in person and remotely to address the challenges and opportunities in applying computer vision to real-world ecology and conservation efforts. The discussion will focus on the practical use of this technology in the field.
 
-The panelists were:
+<!-- The panel discussion will be a hybrid format, with some panelists presenting in person and others joining remotely. The panel will discuss the When Domains Collide: Ecology and Computer Vision in Practice.challenges and opportunities in the field of computer vision for ecology and conservation, with a focus on *computer vision in the real world*. -->
+
+The panelists are: Serge Belongie, Tanya Berger-Wolf, Joost Daniels, Justin Kitzes and Ryan Perroy
 
 
 
-### Anthony Hoogs
-{{< figure src="headshots/anthony-hoogs.jpg" alt="Photo of Anthony Hoogs." class="portrait">}}
-Dr. Hoogs leads Kitware’s Computer Vision group, which he founded when he joined Kitware in 2007. For more than two decades, he has supervised and performed research in various areas of computer vision including: event, activity and behavior recognition; motion pattern learning and anomaly detection; tracking; visual semantics; image segmentation; object recognition; and content-based retrieval. He has led dozens of projects, sponsored by commercial companies and government entities that range from basic, academic research to developing advanced prototypes, with a combined value exceeding $60M. In 2014 he served as an organizer of the National Academies National Research Council Workshop on Robust Methods for the Analysis of Images and Videos for Fisheries Stock Assessment, sponsored by NOAA, then joined the NOAA Automated Imagery Analysis Strategic Initiative Steering Committee.
+<!-- ### Anthony Hoogs -->
+<!-- {{< figure src="headshots/anthony-hoogs.jpg" alt="Photo of Anthony Hoogs." class="portrait">}} -->
+<!-- Dr. Hoogs leads Kitware’s Computer Vision group, which he founded when he joined Kitware in 2007. For more than two decades, he has supervised and performed research in various areas of computer vision including: event, activity and behavior recognition; motion pattern learning and anomaly detection; tracking; visual semantics; image segmentation; object recognition; and content-based retrieval. He has led dozens of projects, sponsored by commercial companies and government entities that range from basic, academic research to developing advanced prototypes, with a combined value exceeding $60M. In 2014 he served as an organizer of the National Academies National Research Council Workshop on Robust Methods for the Analysis of Images and Videos for Fisheries Stock Assessment, sponsored by NOAA, then joined the NOAA Automated Imagery Analysis Strategic Initiative Steering Committee. -->
 
-### Toke Høye
-{{< figure src="headshots/toke-hoye.jpg" alt="Photo of Toke Hoye." class="portrait">}}
-I am a professor in ecology at Aarhus University, Denmark. I lead a research group focused on developing and applying novel monitoring technology to questions related to species responses to environmental change. We primarily focus on insects and other invertebrates, where monitoring data is particularly limited and where species responses to environmental change is particularly pronounced. We focus on computer vision methods, which are particularly promising for global scalability and expert validation. We collaborate widely in interdisciplinary projects.
+<!-- ### Toke Høye -->
+<!-- {{< figure src="headshots/toke-hoye.jpg" alt="Photo of Toke Hoye." class="portrait">}} -->
+<!-- I am a professor in ecology at Aarhus University, Denmark. I lead a research group focused on developing and applying novel monitoring technology to questions related to species responses to environmental change. We primarily focus on insects and other invertebrates, where monitoring data is particularly limited and where species responses to environmental change is particularly pronounced. We focus on computer vision methods, which are particularly promising for global scalability and expert validation. We collaborate widely in interdisciplinary projects. -->
 
 <!-- ### Dan Morris
 {{< figure src="headshots/dan-morris.jpg" alt="Photo of Dan Morris." class="portrait">}}
 Dan Morris is a researcher in the Google AI for Nature and Society program, where he works on AI tools that help conservation scientists spend less time doing boring things and more time doing conservation. This includes tools that accelerate urban forest canopy assessments and image-based wildlife surveys.  Prior to joining Google, he directed the AI for Earth program at Microsoft, and prior to that he spent approximately a zillion years in the medical devices group at Microsoft Research, working on signal processing and machine learning tools for wearable devices that supported cardiovascular monitoring, fitness tracking, and gesture interaction.  He received his PhD from Stanford, where he worked on haptics and physical simulation for virtual surgery. -->
 
-### Aurélie Shapiro
-{{< figure src="headshots/aurelie-shapiro.jpg" alt="Photo of Aurélie Shapiro." class="portrait">}}
-Aurélie Shapiro is an independent consultant based in Berlin, Germany providing remote sensing, GIS (Geographic Information Systems) spatial data analytics for environmental, biodiversity and sustainability projects through her company: [Here+There Mapping Solutions](https://www.here-there-mapping.com/). She is currently supporting the Food and Agriculture Organization of the United Nations (FAO) as Chief Technical Advisor supporting various projects including monitoring forest cover change to help countries manage their forest resources, obtain climate financing, and prevent future pandemics; agricultural mapping and risk assessment for deforestation reduction programs. In addition, she provides short-term consulting services for the World Bank Group to support climate change mitigation activities. She was formerly the Senior Remote Sensing Specialist for the World Wide Fund for Nature (WWF), where she developed and applied innovative satellite and aerial remote sensing for conservation and biodiversity projects worldwide. Aurélie has a phD in Natural Sciences from Humboldt Universität-zu-Berlin and a Master's in Environmental Management from Duke University's Nicholas School of the Environment in 2001 and a Bachelor of Science from McGill University in Canada in 1999.
+<!-- ### Aurélie Shapiro -->
+<!-- {{< figure src="headshots/aurelie-shapiro.jpg" alt="Photo of Aurélie Shapiro." class="portrait">}} -->
+<!-- Aurélie Shapiro is an independent consultant based in Berlin, Germany providing remote sensing, GIS (Geographic Information Systems) spatial data analytics for environmental, biodiversity and sustainability projects through her company: [Here+There Mapping Solutions](https://www.here-there-mapping.com/). She is currently supporting the Food and Agriculture Organization of the United Nations (FAO) as Chief Technical Advisor supporting various projects including monitoring forest cover change to help countries manage their forest resources, obtain climate financing, and prevent future pandemics; agricultural mapping and risk assessment for deforestation reduction programs. In addition, she provides short-term consulting services for the World Bank Group to support climate change mitigation activities. She was formerly the Senior Remote Sensing Specialist for the World Wide Fund for Nature (WWF), where she developed and applied innovative satellite and aerial remote sensing for conservation and biodiversity projects worldwide. Aurélie has a phD in Natural Sciences from Humboldt Universität-zu-Berlin and a Master's in Environmental Management from Duke University's Nicholas School of the Environment in 2001 and a Bachelor of Science from McGill University in Canada in 1999. -->
 
-### Erin Moreland
-See biography [above](#erin-moreland).
+<!-- ### Erin Moreland -->
+<!-- See biography [above](#erin-moreland). -->
 
-### Michael Berumen
-{{< figure src="headshots/michael-berumen.png" alt="Photo of Michael Berumen." class="portrait">}}
-Michael Berumen, Professor of Marine Science and Engineering, and has been managing the Red Sea Research Center, at KAUST King Abdullah University of Science and Technology Mike received a Zoology degree from the University of Arkansas in 2001. He then attended James Cook University in Australia to pursue graduate studies in coral reef ecology, specializing in life history and ecology of butterflyfishes. He was awarded the PhD in 2007. Mike accepted a postdoctoral fellowship at the Woods Hole Oceanographic Institution, where he focused on larval connectivity in coral reef fishes. During his time in Woods Hole, Mike began working in the Red Sea in 2008 in partnership with a new university in Saudi Arabia - the King Abdullah University of Science and Technology (KAUST). Mike joined KAUST in July 2009 as a founding faculty member in the Red Sea Research Center. Mike has authored more than 200 peer-reviewed articles and 8 book chapters, and he has co-edited two books. His research focuses on advancing general understanding of Red Sea coral reefs and more broadly making contributions to movement ecology, which is a critical aspect of developing conservation plans in the marine environment. He is particularly interested in connectivity questions ranging from larval dispersal to large distance migrations of adult fishes.
+<!-- ### Michael Berumen -->
+<!-- {{< figure src="headshots/michael-berumen.png" alt="Photo of Michael Berumen." class="portrait">}} -->
+<!-- Michael Berumen, Professor of Marine Science and Engineering, and has been managing the Red Sea Research Center, at KAUST King Abdullah University of Science and Technology Mike received a Zoology degree from the University of Arkansas in 2001. He then attended James Cook University in Australia to pursue graduate studies in coral reef ecology, specializing in life history and ecology of butterflyfishes. He was awarded the PhD in 2007. Mike accepted a postdoctoral fellowship at the Woods Hole Oceanographic Institution, where he focused on larval connectivity in coral reef fishes. During his time in Woods Hole, Mike began working in the Red Sea in 2008 in partnership with a new university in Saudi Arabia - the King Abdullah University of Science and Technology (KAUST). Mike joined KAUST in July 2009 as a founding faculty member in the Red Sea Research Center. Mike has authored more than 200 peer-reviewed articles and 8 book chapters, and he has co-edited two books. His research focuses on advancing general understanding of Red Sea coral reefs and more broadly making contributions to movement ecology, which is a critical aspect of developing conservation plans in the marine environment. He is particularly interested in connectivity questions ranging from larval dispersal to large distance migrations of adult fishes. -->
 
 
 <br>
