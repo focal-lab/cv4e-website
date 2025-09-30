@@ -59,7 +59,7 @@ The workshop will be held on **October 20th, 2025** and consists of the followin
 
 
 ### Beni Kellenberger
-{{< figure src="headshots/Beni_Kellenberger.jpg" alt="Photo of Beni Kellenberger." class="portrait">}}
+{{< figure src="headshots/beni.JPG" alt="Photo of Beni Kellenberger." class="portrait">}}
 Ben is a Lecturer and permanent researcher in the People and Nature Lab at University College London (UCL), working at the intersection of Earth observation, machine learning, and ecology to answer questions about the distribution of species and underlying processes. Ben previously worked in the Jetz lab at Yale University, as well as the ECEO lab at EPFL, Switzerland, where he researched methods to automatically identify animals from above—using aerial imagery.
 
 
