@@ -47,7 +47,7 @@ The workshop will be held on **October 20th, 2025** and consists of the followin
 | 2:10 | Panel discussion |
 | 3:10 | Coffee Break          |
 | 3:30 | Invited talk 5: Justin Kitzes, University of Pittsburgh   |
-| 4:00 | Invited talk 6: Amanda Navine   |
+| 4:00 | Invited talk 6: Amanda Navine, University of Hawaii at Hilo   |
 | 4:30 | Invited talk 7: Subhransu Maji, University of Massachusetts Amherst   |
 | 5:00 | Closing Remarks: Sara Beery, Massachusetts Institute of Technology|
 |       |                                                                  |
