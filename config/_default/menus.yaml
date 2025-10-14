@@ -11,7 +11,7 @@ main:
     url: schedule
     weight: 26
   - name: Papers
-    url: fishnet-competition
+    url: papers-2025
     weight: 25
   - name: ECCV 2024 
     url: papers
