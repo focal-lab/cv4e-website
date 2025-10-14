@@ -74,7 +74,7 @@ The workshop invited papers for archival (proceedings) and non-archival tracks. 
 | 44       | [Using Deep Learning to Quantify Phenotypic Similarities in Mimic Butterfly Species using Bird, Human, and Butterfly Acuities](/papers/44.pdf) [(supp)](/papers/44_supp.pdf)                  | Michelle J Ramirez                                                                                        |
 
 
-## Non-archival papers & abstracts
+## FishNet competition
 
 
 The ECCV 2024 Challenge presented a unique opportunity for researchers and practitioners to showcase their expertise in fish species classification in challenging environments using the FishNet dataset. The challenge aimed to address the complexities associated with classifying fish species in diverse and demanding conditions, while also tackling the inherent imbalance in the dataset, characterized by a long-tailed distribution.
