@@ -38,8 +38,11 @@ share: false
 | 3       | [Fine-Grained Beetle Taxonomy with Vision Models: A Benchmark on Long-Tailed and Domain-Adaptive Classification](#) | S M Rayeed, Alyson East, Samuel Stevens, Sydne Record, Charles V. Stewart  |
 | 4        | [Species-level Detection and Tracking of Caribbean Coral Reef Fish](#)                       | Levi Cai, Austin Greene, Daniel Yang, Nadège Aoki, Sierra D. Jarriel, Jasper Ha, Nathan Formel, T. Aran Mooney, Yogesh Girdhar |
 | 7       | [Back Home: A Computer Vision Solution to Seashell Identification for Ecological Restoration](#)                    | Alexander Valverde, Luis Fernando Solano Coto, André Montoya Fernández |
-| 10       | [Bridging Domain Gaps for Fine-Grained Moth Classification Through Expert-Informed Adaptation and Foundation Model Priors](#)                     | Ross J Gardiner, Guillaume Mougeot, Sareh Rowlands, Benno I Simmons, Flemming Helsing, Toke Thomas Høye |
 | 11       | [Structured Reranking for Expert-Level Ecological Image Retrieval](#)     | Asmi Kumar, Edward Vendrow, Sara Beery |
+| 10       | [Bridging Domain Gaps for Fine-Grained Moth Classification Through Expert-Informed Adaptation and Foundation Model Priors](#)                     | Ross J Gardiner, Guillaume Mougeot, Sareh Rowlands, Benno I Simmons, Flemming Helsing, Toke Thomas Høye |
+
+
+## Non-archival papers & abstracts
 
 | Paper ID | Paper Title                                                                                                                                   | Authors                                                                                                   |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
