@@ -30,33 +30,16 @@ share: false
 
 <!-- The workshop invited papers for archival (proceedings) and non-archival tracks. Additionally, abstracts were invited to the non-archival track. -->
 
-## Archival full papers
+## Archival papers
 
 | Paper ID | Paper Title                                                                                          | Authors                                                                                                                                                   |
 | -------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2        | [Generating Binary Species Range Maps](/papers/02.pdf) [(supp)](/papers/02-supp.pdf)                                                                 | Filip Gedung Dorm, Christian P Lange, Scott Loarie, Oisin Mac Aodha                                                                                       |
-| 4        | [WildFusion: Individual Animal Identification with Calibrated Similarity Fusion](/papers/04.pdf)                       | Vojtěch Čermák, Lukas Picek, Lukáš Adam, Lukáš Neumann, Jiri Matas                                                                                        |
-| 14       | [Towards Zero-Shot Camera Trap Image Categorization](/papers/14.pdf)                                                   | Jiří Vyskočil, Lukas Picek                                                                                                                                |
-| 16       | [Larval Hostplant Prediction from Luehdorfia japonica Image using Multi-label ABN](/papers/16.pdf)                     | Tsubasa Hirakawa, Takaaki Arai, Takayoshi Yamashita, Hironobu Fujiyoshi, Yuichi Oba, Hiromichi Fukui, Masaya Yago                                         |
-| 17       | [Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation](/papers/17.pdf)                    | Daniele Rege Cambrin, Isaac A Corley, Paolo Garza                                                                                                         |
-| 19       | [Underwater Uncertainty: A Multi-Annotator Image Dataset for Benthic Habitat Classification](/papers/19.pdf) [(supp)](/papers/19-supp.pdf)           | Galadrielle Humblot-Renaux, Anders Skaarup Johansen, Jonathan Eichild Schmidt, Amanda Frederikke Irlind, Niels Madsen, Thomas B. Moeslund, Malte Pedersen |
-| 22       | [Deep Learning for Automated Shark Detection and Biometrics Without Keypoints](/papers/22.pdf)                         | Chinmay Lalgudi, Jaden Clark, Mark E Leone, Jayson Meribe, Sergio Madrigal Mora, Mario Espinoza                                                           |
-| 24       | [Improving in situ real-time classification of long-tail marine plankton images for ecosystem studies](/papers/24.pdf) [(supp)](/papers/24-supp.pdf) | Noushin Dr Eftekhari, Sophie Pitois, Mojtaba Masoudi, Robert Blackwell, James Scott, Sarah L.C. Giering, Matthew Fry                                      |
-| 29       | [KAN-Mixer: Kolmogorov-Arnold Networks for Gene Expression Prediction in Plant Species](/papers/29.pdf)                | Jin Gao, Juntu Zhao, Keyu Li, Dequan Wang                                                                                                                 |
-
-## Archival short papers
-
-| Paper ID | Paper Title                                                                                    | Authors                                                                                               |
-| -------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 6        | [Multi-Scale and Multi-Modal Species Distribution Modelling](/papers/06.pdf)                                     | Nina van Tiel, Robin Zbinden, Emanuele Dalsasso, Benjamin A Kellenberger, Loïc Pellissier, Devis Tuia |
-| 8        | [Semantic Segmentation of Benthic Classes in Reef Environments using a Large Vision Transformer](/papers/08.pdf) | Charlotte L Sertic, Jonathan Sauder, Devis Tuia                                                       |
-| 9        | [POLO - Point-based, multi-class animal detection](/papers/09.pdf)                                               | Giacomo G May, Benjamin A Kellenberger, Emanuele Dalsasso, Devis Tuia                                 |
-| 11       | [Mining Field Data for Tree Species Recognition at Scale](/papers/11.pdf) [(supp)](/papers/11-supp.pdf)                                        | Dimitri Gominski, Daniel Ortiz-Gonzalo, Martin S Brandt, Maurice Mugabowindekwe, Rasmus Fensholt      |
-| 12       | [MaskSDM: Adaptive species distribution modeling through data masking](/papers/12.pdf) [(supp)](/papers/12-supp.pdf)                           | Robin Zbinden, Nina van Tiel, Gencer Sumbul, Benjamin A Kellenberger, Devis Tuia                      |
-| 15       | [Finetuning for Bird Sound Classification - An Empirical Study -](/papers/15.pdf)                                | David Stein, Bjoern Andres,                                                                           |
-| 31       | [Multimodal Fusion Strategies for Mapping Biophysical Landscape Features](/papers/31.pdf)                        | Lucia Gordon, Nico Lang, Catherine Ressijac, Andrew Davies,                                           |
-
-## Non-archival papers & abstracts
+| 2        | [WildSAT: Learning Satellite Image Representations from Wildlife Observations](#)                                                     | Rangel Daroya, Elijah Cole, Oisin Mac Aodha, Grant Van Horn, Subhransu Maji |
+| 3       | [Fine-Grained Beetle Taxonomy with Vision Models: A Benchmark on Long-Tailed and Domain-Adaptive Classification](#) | S M Rayeed, Alyson East, Samuel Stevens, Sydne Record, Charles V. Stewart  |
+| 4        | [Species-level Detection and Tracking of Caribbean Coral Reef Fish](#)                       | Levi Cai, Austin Greene, Daniel Yang, Nadège Aoki, Sierra D. Jarriel, Jasper Ha, Nathan Formel, T. Aran Mooney, Yogesh Girdhar |
+| 7       | [Back Home: A Computer Vision Solution to Seashell Identification for Ecological Restoration](#)                    | Alexander Valverde, Luis Fernando Solano Coto, André Montoya Fernández |
+| 10       | [Bridging Domain Gaps for Fine-Grained Moth Classification Through Expert-Informed Adaptation and Foundation Model Priors](#)                     | Ross J Gardiner, Guillaume Mougeot, Sareh Rowlands, Benno I Simmons, Flemming Helsing, Toke Thomas Høye |
+| 11       | [Structured Reranking for Expert-Level Ecological Image Retrieval](#)     | Asmi Kumar, Edward Vendrow, Sara Beery |
 
 | Paper ID | Paper Title                                                                                                                                   | Authors                                                                                                   |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
