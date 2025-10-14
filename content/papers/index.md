@@ -72,3 +72,21 @@ The workshop invited papers for archival (proceedings) and non-archival tracks. 
 | 40       | [Counting Fish with Temporal Representations of Sonar Video](/papers/40.pdf) [(supp)](/papers/40-supp.pdf)                                                                                    | Kai Van Brunt, Justin Kay, Timm Haucke, Pietro Perona, Grant Van Horn, Sara M Beery                       |
 | 42       | [MP3D: Low-Cost 3D analysis of Microplastics with DFF](/papers/42.pdf)                                                                                          | Victor Sim, Josiah O Essiam, Wang Ngai Ng                                                                 |
 | 44       | [Using Deep Learning to Quantify Phenotypic Similarities in Mimic Butterfly Species using Bird, Human, and Butterfly Acuities](/papers/44.pdf) [(supp)](/papers/44_supp.pdf)                  | Michelle J Ramirez                                                                                        |
+
+
+## Non-archival papers & abstracts
+
+
+The ECCV 2024 Challenge presented a unique opportunity for researchers and practitioners to showcase their expertise in fish species classification in challenging environments using the FishNet dataset. The challenge aimed to address the complexities associated with classifying fish species in diverse and demanding conditions, while also tackling the inherent imbalance in the dataset, characterized by a long-tailed distribution.
+## Dates:
+- Dev Phase: Started May 10, 2024.
+- Challenge Phase: Started July 10, 2024.
+- Winner Announcement: September 5, 2024.
+
+## Dataset
+
+The FishNet dataset comprises a diverse collection of fish images captured in various environmental conditions, including underwater, low-light, and occluded scenarios. The dataset encompasses a wide range of fish species, from common to rare, contributing to its long-tailed distribution. Participants will have access to a large-scale annotated dataset for model training and evaluation.
+
+## Challenge details
+
+All the details related to the challenge can be found [here.](https://eval.ai/web/challenges/challenge-page/2292/overview)
