@@ -60,8 +60,7 @@ share: false
 
 | Paper ID | Paper Title                                                                                                                                   | Authors                                                                                                   |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 1       | [ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds](/papers/1_2025.pdf)                                             | Binbin Xiang, Maciej Wielgosz, Stefano Puliti, Kamil Kra ́l
-Martin Kru ̊cˇek, Azim Missarov, Rasmus Astrup |
+| 1       | [ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds](/papers/1_2025.pdf)                                             | Binbin Xiang, Maciej Wielgosz, Stefano Puliti, Kamil Kral, Martin Krucek, Azim Missarov, Rasmus Astrup |
 | 2       | [WildSAT: Learning Satellite Image Representations from Wildlife Observations](/papers/2_2025.pdf)                                                                                  | Rangel Daroya, Elijah Cole, Oisin Mac Aodha, Grant Van Horn, Subhransu Maji
 | 3       | [LD-SDM: Language-Driven Hierarchical Species Distribution Modeling](/papers/3_2025.pdf)                                                           | Srikumar Sastry, Xin Xing, Aayush Dhakal, Subash Khanal, Adeel Ahmad, Nathan Jacobs|
 | 4       | [ImageNet Misrepresents Biodiversity, But Does It Matter For Pretraining?](/papers/4_2025.pdf) | Gaurav Iyer, David Rolnick, Esther Rolf, Sasha Luccioni                                                            |
