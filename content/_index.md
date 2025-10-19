@@ -88,7 +88,8 @@ sections:
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
         - name: TAMU
-          description: ''
+          description: |
+            [Dr. Cheng Zhang](https://czhang0528.github.io/)
         - name: KAUST
           description: |
             [Dr. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) <br>
