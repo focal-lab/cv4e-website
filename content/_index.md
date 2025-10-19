@@ -87,13 +87,11 @@ sections:
             [Dr. Sara Beery](https://beerys.github.io/) <br>
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
+        - name: ''
+          description: ''
         - name: KAUST
           description: |
             [Dr. Mohamed Elhoseiny](https://www.kaust.edu.sa/en/study/faculty/mohamed-elhoseiny) <br>
             [Faizan Khan](https://faixan-khan.github.io/) <br>
             [Dr. Andrew Temple](https://reefecology.kaust.edu.sa/people/details/andrew-temple) <br>
-        - name: 'TAMU'
-          description: |
-          [Cheng Zhang] https://czhang0528.github.io/
-
 ---
