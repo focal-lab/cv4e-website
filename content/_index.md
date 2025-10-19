@@ -87,7 +87,7 @@ sections:
             [Dr. Sara Beery](https://beerys.github.io/) <br>
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
-        - name: ''
+        - name: TAMU
           description: ''
         - name: KAUST
           description: |
