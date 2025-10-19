@@ -87,6 +87,7 @@ sections:
             [Dr. Sara Beery](https://beerys.github.io/) <br>
             [Julia Chae](https://juliachae.github.io/) <br>
             [Edward Vendrow](https://edwardv.com/) <br>
+            [Cheng Zhang](#) <br>
         - name: ''
           description: ''
         - name: KAUST
