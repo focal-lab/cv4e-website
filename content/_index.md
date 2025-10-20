@@ -18,6 +18,8 @@ sections:
         
         Workshop at [ICCV 2025](https://iccv.thecvf.com/) <br>
         Oct 20, 2025<br>
+        <b>Happening at 323 B, from noon PDT to 8 p.m. PDT</b><br>
+        <b> [Join Virtually](https://mit.zoom.us/j/7940546943) <b>
         <b><del>Archival Submissions due July 7, 2025!<del></b><br>
         <b><del>Non Archival Submissions due August 22, 2025!<del></b><br>
 
